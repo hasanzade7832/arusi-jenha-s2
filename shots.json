@@ -19,9 +19,18 @@
     "duration": "حدود ۲ ثانیه",
     "story": "نفیسه خم شده و چای رو به مادر داماد تعارف می‌کنه. مادر داماد با لبخند دست دراز می‌کنه. این آخرین لحظه‌ی آرامشه؛ شات بعد دست نامرئی مچ نفیسه رو می‌گیره.",
     "narration": "",
-    "dialogue": [],
+    "dialogue": [
+      [
+        "نفیسه (آروم، خجالتی)",
+        "بفرمایید."
+      ],
+      [
+        "مادر داماد (مؤدب ولی سرد)",
+        "ممنون عزیزم."
+      ]
+    ],
     "sound": "همهمه‌ی آروم مهمونی، قل‌قل سماور، جرینگ النگوهای طلا، صدای استکان روی نعلبکی. بدون موسیقی.",
-    "video_prompt": "Animate this exact image. Keep Nafiseh's face, hair, white lace dress and veil, the groom's mother's face, black gold-embroidered outfit and gold jewelry, and the whole room exactly the same. Vertical 9:16, 4 seconds, realistic live-action footage, cinematic, natural motion, no morphing.\n\nAction: Nafiseh stays slightly bent forward, holding the silver tray steady with both hands, eyes lowered, a shy polite smile, she takes a small nervous breath. The groom's mother slowly reaches out with her gold-bangled hand and picks up one tea glass by its saucer; her stacked gold bangles slide and clink softly. She gives Nafiseh a polite but cold smile and her eyes briefly look her up and down. Thin steam rises from the tea glasses. In the background the samovar steams gently and the chandelier sparkles.\n\nCamera: very slow push-in toward the tray and the two women's hands, subtle handheld feel, shallow depth of field.\n\nLighting: warm tungsten evening light, cool blue night light from the window with the Milad Tower in the background.\n\nSound: diegetic ambient sound only — a soft indistinct murmur of guests chatting in Persian off-screen, the quiet bubbling of the samovar, the soft clink of gold bangles, a small clink of the tea glass on its saucer.\nNo dialogue. NO background music, no score, no soundtrack, no singing."
+    "video_prompt": "Animate this exact image. Keep Nafiseh's face, hair, white lace dress and veil, the groom's mother's face, black gold-embroidered outfit and gold jewelry, and the whole room exactly the same. Vertical 9:16, 4 seconds, realistic live-action footage, cinematic, natural motion, no morphing.\n\nAction: Nafiseh stays slightly bent forward, holding the silver tray steady with both hands, eyes lowered, a shy polite smile, she takes a small nervous breath and says softly «بفرمایید». The groom's mother slowly reaches out with her gold-bangled hand and picks up one tea glass by its saucer; her stacked gold bangles slide and clink softly. She gives Nafiseh a polite but cold smile, her eyes briefly looking her up and down, and says «ممنون عزیزم». Thin steam rises from the tea glasses. In the background the samovar steams gently and the chandelier sparkles.\n\nDialogue (spoken in natural Persian/Farsi with a Tehran accent, soft and polite, one after the other):\n- Nafiseh (a soft, shy young woman's voice): «بفرمایید.»\n- Groom's mother (a polished, polite but cool middle-aged woman's voice): «ممنون عزیزم.»\n\nCamera: very slow push-in toward the tray and the two women's hands, subtle handheld feel, shallow depth of field.\n\nLighting: warm tungsten evening light, cool blue night light from the window with the Milad Tower in the background.\n\nSound: the two lines above, plus diegetic ambient sound — a soft indistinct murmur of guests chatting in Persian off-screen, the quiet bubbling of the samovar, the soft clink of gold bangles, a small clink of the tea glass on its saucer.\nNO background music, no score, no soundtrack, no singing."
   },
   {
     "id": "s1_shot2",

@@ -58,6 +58,12 @@ No dialogue. NO background music, no score, no soundtrack, no singing.
 نفیسه خم شده و چای رو به مادر داماد تعارف می‌کنه. مادر داماد با لبخند دست دراز می‌کنه. این آخرین لحظه‌ی آرامشه؛ شات بعد دست نامرئی مچ نفیسه رو می‌گیره.
 
 
+**نفیسه (آروم، خجالتی):** «بفرمایید.»
+
+
+**مادر داماد (مؤدب ولی سرد):** «ممنون عزیزم.»
+
+
 🔊 همهمه‌ی آروم مهمونی، قل‌قل سماور، جرینگ النگوهای طلا، صدای استکان روی نعلبکی. بدون موسیقی.
 
 </div>
@@ -69,14 +75,18 @@ No dialogue. NO background music, no score, no soundtrack, no singing.
 ```
 Animate this exact image. Keep Nafiseh's face, hair, white lace dress and veil, the groom's mother's face, black gold-embroidered outfit and gold jewelry, and the whole room exactly the same. Vertical 9:16, 4 seconds, realistic live-action footage, cinematic, natural motion, no morphing.
 
-Action: Nafiseh stays slightly bent forward, holding the silver tray steady with both hands, eyes lowered, a shy polite smile, she takes a small nervous breath. The groom's mother slowly reaches out with her gold-bangled hand and picks up one tea glass by its saucer; her stacked gold bangles slide and clink softly. She gives Nafiseh a polite but cold smile and her eyes briefly look her up and down. Thin steam rises from the tea glasses. In the background the samovar steams gently and the chandelier sparkles.
+Action: Nafiseh stays slightly bent forward, holding the silver tray steady with both hands, eyes lowered, a shy polite smile, she takes a small nervous breath and says softly «بفرمایید». The groom's mother slowly reaches out with her gold-bangled hand and picks up one tea glass by its saucer; her stacked gold bangles slide and clink softly. She gives Nafiseh a polite but cold smile, her eyes briefly looking her up and down, and says «ممنون عزیزم». Thin steam rises from the tea glasses. In the background the samovar steams gently and the chandelier sparkles.
+
+Dialogue (spoken in natural Persian/Farsi with a Tehran accent, soft and polite, one after the other):
+- Nafiseh (a soft, shy young woman's voice): «بفرمایید.»
+- Groom's mother (a polished, polite but cool middle-aged woman's voice): «ممنون عزیزم.»
 
 Camera: very slow push-in toward the tray and the two women's hands, subtle handheld feel, shallow depth of field.
 
 Lighting: warm tungsten evening light, cool blue night light from the window with the Milad Tower in the background.
 
-Sound: diegetic ambient sound only — a soft indistinct murmur of guests chatting in Persian off-screen, the quiet bubbling of the samovar, the soft clink of gold bangles, a small clink of the tea glass on its saucer.
-No dialogue. NO background music, no score, no soundtrack, no singing.
+Sound: the two lines above, plus diegetic ambient sound — a soft indistinct murmur of guests chatting in Persian off-screen, the quiet bubbling of the samovar, the soft clink of gold bangles, a small clink of the tea glass on its saucer.
+NO background music, no score, no soundtrack, no singing.
 ```
 
 <div dir="rtl">
